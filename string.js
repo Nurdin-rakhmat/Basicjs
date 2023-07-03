@@ -59,3 +59,6 @@ console.log('Second Word: ' + secondWord4 + 'with length:' + secondWord4Length);
 console.log('Third Word: ' + thirdWord4 + 'with length:' + thirdWord4Length);
 console.log('Fourth Word: ' + fourthWord4 + 'with length:' + fourthWord4Length);
 console.log('Fifth Word: ' + fifthWord4 + 'with length:' + fifthWord4Length);
+//git add .
+//gitcommit -m "nama file"
+//git push origin master
