@@ -83,3 +83,9 @@ function akarPersamaan(a,b,c){
 }
 console.log(akarPersamaan(1,5,6))
 console.log(akarPersamaan(1,1,2))
+
+function luasBelahKetupat(d1,d2){
+  return((d1*d2)/2)
+} 
+console.log(luasBelahKetupat(10,15))
+
